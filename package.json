@@ -136,7 +136,7 @@
     "bigint-conversion": "^2.2.1",
     "bigint-crypto-utils": "^3.0.21",
     "elliptic": "^6.5.4",
-    "ethers": "^5.5.2",
+    "ethers": "^5.7.1",
     "jose": "^4.3.7",
     "object-sha": "^2.0.6"
   }
