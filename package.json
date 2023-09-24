@@ -204,7 +204,7 @@
     "ajv-draft-04": "^1.0.0",
     "ajv-formats": "^2.1.1",
     "bigint-conversion": "^2.4.1",
-    "bigint-crypto-utils": "^3.2.2",
+    "bigint-crypto-utils": "^3.3.0",
     "elliptic": "^6.5.4",
     "ethers": "^5.5.2",
     "jose": "^4.3.7",
