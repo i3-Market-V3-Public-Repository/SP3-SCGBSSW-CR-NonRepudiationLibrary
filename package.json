@@ -199,15 +199,15 @@
   },
   "dependencies": {
     "@apidevtools/openapi-schemas": "^2.1.0",
-    "@juanelas/base64": "^1.1.2",
-    "ajv": "^8.11.0",
+    "@juanelas/base64": "^1.1.5",
+    "ajv": "^8.17.1",
     "ajv-draft-04": "^1.0.0",
     "ajv-formats": "^2.1.1",
-    "bigint-conversion": "^2.4.1",
-    "bigint-crypto-utils": "^3.2.2",
-    "elliptic": "^6.5.4",
+    "bigint-conversion": "^2.4.3",
+    "bigint-crypto-utils": "^3.3.0",
+    "elliptic": "^6.5.7",
     "ethers": "^5.5.2",
-    "jose": "^4.3.7",
+    "jose": "^4.15.9",
     "lodash": "^4.17.21",
     "object-sha": "^2.1.1"
   }
