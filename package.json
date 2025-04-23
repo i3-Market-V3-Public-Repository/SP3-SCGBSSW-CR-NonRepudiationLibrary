@@ -207,7 +207,7 @@
     "bigint-crypto-utils": "^3.2.2",
     "elliptic": "^6.5.4",
     "ethers": "^5.5.2",
-    "jose": "^4.3.7",
+    "jose": "^4.15.2",
     "lodash": "^4.17.21",
     "object-sha": "^2.1.1"
   }
